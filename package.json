@@ -57,5 +57,6 @@
     "type": "git",
     "url": "https://github.com/waterbottlebag/copyrobloxpath.git"
   },
-  "icon": "assets/icon.jpg"
+  "icon": "assets/icon.jpg",
+  "publisher": "waterbottlebag"
 }
