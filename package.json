@@ -58,5 +58,11 @@
     "url": "https://github.com/waterbottlebag/copyrobloxpath.git"
   },
   "icon": "assets/icon.jpg",
-  "publisher": "waterbottlebag"
+  "publisher": "waterbottlebag",
+  "keywords": [
+    "copy",
+    "paste",
+    "roblox",
+    "path"
+  ]
 }
